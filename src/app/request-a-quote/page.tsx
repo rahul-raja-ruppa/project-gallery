@@ -297,7 +297,7 @@ export default function RequestQuotePage() {
             value={formData.size}
             onChange={handleChange}
             className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-            placeholder="e.g., 2\" x 3\", 4\" x 6\", custom"
+            placeholder='e.g., 2" x 3", 4" x 6", custom'
           />
         </div>
         <div>
