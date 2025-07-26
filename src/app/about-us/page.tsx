@@ -7,7 +7,7 @@ export default function AboutUsPage() {
           <h1 className="text-4xl font-bold text-gray-900 mb-4">About Premium Labels</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
             Leading the industry in high-performance labeling solutions for over 25 years, 
-            we've built our reputation on quality, innovation, and customer satisfaction.
+            we&apos;ve built our reputation on quality, innovation, and customer satisfaction.
           </p>
         </div>
 
@@ -23,7 +23,7 @@ export default function AboutUsPage() {
                 serving Fortune 500 companies across multiple industries.
               </p>
               <p>
-                Over the past 25+ years, we've invested heavily in technology, quality control, and customer 
+                Over the past 25+ years, we&apos;ve invested heavily in technology, quality control, and customer 
                 service. Our commitment to continuous improvement has earned us ISO 9001:2015 certification 
                 and recognition as a trusted partner for companies requiring reliable, compliant labeling solutions.
               </p>
