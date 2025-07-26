@@ -42,7 +42,7 @@ const tabs = [
   { id: 'downloads', name: 'Downloads' }
 ];
 
-export default function ProductDetailPage({ params }: { params: { id: string } }) {
+export default function ProductDetailPage() {
   const [activeTab, setActiveTab] = useState('description');
 
   return (
